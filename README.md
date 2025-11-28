@@ -8,3 +8,8 @@
 汉化支持：Madao
 
 测试通过发布正式版会同步将字典和翻译器发布
+
+
+运行截图：
+<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/37823cab-c076-406b-a2e7-97f790d20acd" />
+
